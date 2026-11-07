@@ -1,9 +1,9 @@
 # Responsi Akhir PBO – Sistem SPBU
 
 ## Identitas
-Nama: KALINA AULIA BRILIANI
-NIM : H1D025002
-Tema: SPBU (digit terakhir NIM 2)
+-**Nama:** KALINA AULIA BRILIANI
+-**NIM :** H1D025002
+-**Tema:** SPBU (digit terakhir NIM 2)
 
 ## Cara Menjalankan Program
 
